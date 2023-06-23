@@ -38,7 +38,7 @@
     <li>3º Passo:</li>
     <br>
     <ul>
-      <p>Utilize o comando <code>python.exe derivadas.py</code> (se for no Windows) ou <code>python3.11 derivadas.py</code> (se for no Linux)</p>
+      <p>Utilize o comando <code>python.exe derivada.py</code> (se for no Windows) ou <code>python3.11 derivada.py</code> (se for no Linux)</p>
     </ul>
   </ul>
 </div>
