@@ -1,7 +1,7 @@
 <div>
   <h1>Programa que calcula derivadas explícitas</h1>
   <p>Programa para facilitar o estudo de Cálculo 1</p>
-  <h1>Esse projeto contém um errro que ainda não foi corrigido</h1>
+  <h1>(Esse projeto contém um errro que ainda não foi corrigido)</h1>
 </div>
 <div>
   <h3>Licença do Projeto</h3>
